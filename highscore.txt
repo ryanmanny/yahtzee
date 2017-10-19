@@ -1,0 +1,5 @@
+RWM	1000
+ADF	0
+AVP	0
+SDD	0
+CCC	0
