@@ -1,6 +1,7 @@
 # Yahtzee
 
-The classic. Command-line Yahtzee for CptS 121 at WSU, taught by legend Andy O'Fallon<br>
+The classic. Command-line Yahtzee for CptS 121 at WSU, taught by legend Andy O'Fallon
+
 Includes some extra features, like ASCII dice. Supports **1-MaxInt Players**<br>
 Gameplay based on the Yahtzee electronic game<br>
 
